@@ -1,6 +1,6 @@
 # Zomato Restaurants Analysis
 
-This directory contains the notebook with code, dataset(s), and a PowerPoint file. For a detailed explanation of the code, check out the [Medium](https://medium.com/@vijay_sundaram/exploratory-data-analysis-of-zomato-data-in-python-unveiling-insights-for-restaurant-success-0db332f95bab) blog.
+This directory contains the notebook with code, dataset(s), and a PowerPoint file.
 
 ## Description
 The project aims to provide comprehensive insights for aspiring restaurant owners in India.
